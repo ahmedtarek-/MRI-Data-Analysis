@@ -1,5 +1,6 @@
 # MRI-Data-Analysis
-Documenting my Internship pre-processing and analysis of Neuro-imaging data
+Documenting my Internship pre-processing and analysis of Neuro-imaging data for patients with
+alcohol use disorder (AUD)
 
 My work within the internship comprised the following sections:
 
