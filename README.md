@@ -12,3 +12,5 @@ My work within the internship comprised the following sections:
     meta-data to visualize the data.
 5. Studying and deciding what clustering algorithms to be used to help achieve a non-trivial clustering
     of the subjects data to possible subtypes of Aclohol Use Disorder
+
+![internship_flow_2](https://user-images.githubusercontent.com/10937709/156264582-6036c2db-2000-4185-8cf9-74f064c46f83.png)
